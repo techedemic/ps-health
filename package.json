@@ -1,0 +1,22 @@
+{
+  "name": "ps-health",
+  "version": "0.0.1",
+  "description": "Sintelligent Health Check Portal",
+  "main": "health.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techedemic/ps-health.git"
+  },
+  "author": "Hendri Schoeman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techedemic/ps-health/issues"
+  },
+  "homepage": "https://github.com/techedemic/ps-health#readme",
+  "dependencies": {
+    "imap": "^0.8.17"
+  }
+}
